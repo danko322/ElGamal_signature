@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Секретные ключи и конфиги
+private_key.json
+
+# Тестовые данные и подписи
+*.sig
+test.txt
+
+# Окружение
+.venv/
+.env
